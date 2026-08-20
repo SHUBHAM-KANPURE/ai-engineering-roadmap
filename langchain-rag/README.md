@@ -1,4 +1,4 @@
-# LangChain & RAG Learning
+# LangChain & RAG
 
 A simple learning repository to understand **LangChain** and **RAG
 (Retrieval-Augmented Generation)** --- what they are, why they are used,
